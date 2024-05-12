@@ -1,0 +1,12 @@
+canvas {
+	border: 1px solid;
+}
+
+#circle {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	pointer-events: none;
+	border: 1px dashed;
+	border-radius: 50%;
+}
